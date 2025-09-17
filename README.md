@@ -8,3 +8,4 @@
 # run the program in Python
 python3 ATM.py
 ```
+<p>and it should give you something like this in the terminal</p>
