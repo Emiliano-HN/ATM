@@ -9,3 +9,4 @@
 python3 ATM.py
 ```
 <p>and it should give you something like this in the terminal</p>
+<img src="Data/" alt="Inicio" width="400" style="margin-top:-10px;" />
