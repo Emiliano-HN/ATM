@@ -1,1 +1,1 @@
-<h1>Cajero Automático en Python</h1>
+<h1 align="center" >Cajero Automático en Python</h1>
