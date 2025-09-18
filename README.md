@@ -11,7 +11,6 @@ python3 ATM.py
 <p>and it should give you something like this in the terminal</p>
 <img src="Data/Inicio.png" width="400" />
 
-<p>User automation</p>
 <img src="Data/Auteticacion de usuario.png" width="400" />
 
 ```bash
@@ -24,4 +23,5 @@ python3 ATM.py
 1234
 ```
 
+<p>administrator access</p>
 <img src="Data/Acceso administrador.png" width="400" />
