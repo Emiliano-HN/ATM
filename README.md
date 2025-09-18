@@ -13,3 +13,13 @@ python3 ATM.py
 
 <p>User automation</p>
 <img src="Data/Auteticacion de usuario.png" width="400" />
+
+```bash
+# Account number
+123456
+```
+
+```bash
+# 4-digit PIN
+1234
+```
