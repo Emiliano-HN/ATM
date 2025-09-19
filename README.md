@@ -38,3 +38,5 @@ python3 ATM.py
 
 <p>administration interfaces</p>
 <img src="Data/" width="400" />
+
+<p>From there, no explanation is needed, only intuition and reasoning to know how this ATM system works, quite easy and simple.</p>
