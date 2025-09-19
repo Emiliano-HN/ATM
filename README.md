@@ -32,3 +32,9 @@ python3 ATM.py
 ```
 
 <p>Administrator and user interfaces</p>
+
+<p>user interfaces</p>
+<img src="Data/Interfaz de usuario.png" width="400" />
+
+<p>administration interfaces</p>
+<img src="Data/Interfaz de usuario.png" width="400" />
