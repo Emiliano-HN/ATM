@@ -37,6 +37,6 @@ python3 ATM.py
 <img src="Data/interfas de usuario.png" width="400" />
 
 <p>administration interfaces</p>
-<img src="Data/" width="400" />
+<img src="Data/interfaz de administrador.png" width="400" />
 
 <p>From there, no explanation is needed, only intuition and reasoning to know how this ATM system works, quite easy and simple.</p>
