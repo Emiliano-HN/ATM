@@ -25,7 +25,10 @@ python3 ATM.py
 
 <p>administrator access</p>
 <img src="Data/Acceso administrador.png" width="400" />
+
 ```bash
 # Administrator PIN
 0000
 ```
+
+<p>Administrator and user interfaces</p>
