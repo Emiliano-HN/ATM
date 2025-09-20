@@ -1,6 +1,6 @@
 <h1 align="center" >ATM in Python</h1>
 
-<p>Download the Python file</p>
+<p>Download the Python file: </p>
   <a href="https://github.com/user-attachments/files/22417929/ATM.py">
     <img src="Data/Descargas.png" alt="Descargas" width="50"/>
   </a>
