@@ -1,4 +1,4 @@
-<img src="Data/Banner-Python.webp" />
+<img src="Data/Python-Banner.png" />
 <h1 align="center" >ATM in Python</h1>
 
 <p>Download the Python file: </p>
